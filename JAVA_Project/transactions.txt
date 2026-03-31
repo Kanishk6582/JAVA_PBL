@@ -1,0 +1,4 @@
+300.0,Car,13-1-2025,Other
+12.0,Vehicle,29-1-2026,Transport
+20.0,Vehicle Service,29-1-2026,Transport
+250.0,zomato,30-1-2020,Food

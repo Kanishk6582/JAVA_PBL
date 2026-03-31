@@ -1,0 +1,23 @@
+Total Salary: 10000.0
+Savings: 1500.0
+Food Budget: 1500.0, Used: 0.0
+Entertainment Budget: 500.0, Used: 0.0
+Bills Budget: 3000.0, Used: 0.0
+Transport Budget: 1500.0, Used: 0.0
+Other Budget: 2000.0, Used: 300.0---------------------------------------
+Total Salary: 100.0
+Savings: 15.0
+Food Budget: 15.0, Used: 0.0
+Entertainment Budget: 5.0, Used: 0.0
+Bills Budget: 30.0, Used: 0.0
+Transport Budget: 15.0, Used: 12.0
+Other Budget: 20.0, Used: 0.0
+---------------------------------------
+Total Salary: 100.0
+Savings: 15.0
+Food Budget: 15.0, Used: 0.0
+Entertainment Budget: 5.0, Used: 0.0
+Bills Budget: 30.0, Used: 0.0
+Transport Budget: 15.0, Used: 20.0
+Other Budget: 20.0, Used: 0.0
+Salary plan is not set yet.
